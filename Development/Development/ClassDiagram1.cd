@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Development.Admin.addCategory">
+    <Position X="1" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAAAAAAIAAAACAAAAQAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>Admin\addCategory.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Development.Admin.addItem">
+    <Position X="4.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAACAAAAAAQIGAQAAAABAQgAAAggAAAAIQAAA=</HashCode>
+      <FileName>Admin\addItem.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Development.Admin.Admin">
+    <Position X="11.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgEAEAAIAAwAAAzPsAACAAABAAAJAAACIEAEA=</HashCode>
+      <FileName>Admin\Admin.Master.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Development.Admin.customerNotBought">
+    <Position X="4.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>Admin\customerNotBought.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Development.Admin.customerReport">
+    <Position X="2.75" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAEAAYAAAAAAAAAAAAAAAQAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>Admin\customerReport.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Development.Admin.dateWiseReport">
+    <Position X="1" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAEAAAEAAAAAAAAAAAAAAQAIAEAAAAABIAIAA=</HashCode>
+      <FileName>Admin\dateWiseReport.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Development.Admin.sale">
+    <Position X="6.25" Y="0.5" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AIACAkAIECAcAAAAAACACAAAACAQAAAAggEAAAIQCAA=</HashCode>
+      <FileName>Admin\itemSales.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Development.Admin.addCustomer">
+    <Position X="2.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AJAAggAAAAACAAAAAAAAgAAAAAAQAAAAwkAAAAIAAAA=</HashCode>
+      <FileName>Admin\manageCustomer.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Development.Admin.addUser">
+    <Position X="9.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AZAAggAAEAAwAACAAAAAAAAAAAgQBAAAgiAACAKAAAA=</HashCode>
+      <FileName>Admin\manageUser.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Development.Admin.noItemSold">
+    <Position X="9.5" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>Admin\noItemSold.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Development.Admin.outOfStock">
+    <Position X="1" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EIAAAAACAAAAAABAAAAAAQAAAAAAAAAAAAAAQAIgAAA=</HashCode>
+      <FileName>Admin\outOfStock.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Development.Admin.profile">
+    <Position X="2.75" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>oAIAAAAAEAAaAAAAAQAAAAAABAAQAAIAAAAACQIAAAA=</HashCode>
+      <FileName>Admin\profile.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Development.Admin.purchase">
+    <Position X="4.5" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IIBAAAAAEAAYAAAAAAAAAQAQAAAQABAAAwAAAEIAACA=</HashCode>
+      <FileName>Admin\purchase.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Development.Admin.viewItems">
+    <Position X="11.25" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAEAAYAAAAAAAAAAAAAAAQAAAAggAAAAIAAAA=</HashCode>
+      <FileName>Admin\viewCategoryItems.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Development.Admin.viewAllItems">
+    <Position X="6.25" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEACYAAAAAAAAAAAAAAAQAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>Admin\viewItemsQuantity.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Development.Admin.viewLimitedItem">
+    <Position X="11.5" Y="10" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>Admin\viewLimitedItem.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Development.Admin.viewOldItems">
+    <Position X="1" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>Admin\viewOldItems.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Development.login">
+    <Position X="7.75" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAQAAAAAAAAAAAAIAwYAAAABAAAAAIACAA=</HashCode>
+      <FileName>login.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Development.Site1">
+    <Position X="9.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAkAAAAAAAAAAAAAABIBAAAIAAAEIUAAIAgAA=</HashCode>
+      <FileName>Site1.Master.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

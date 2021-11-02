@@ -1,0 +1,28 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="Development.Site1" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div>
+            <asp:Button ID="homeBtn" runat="server" Text="Home" OnClick="homeBtn_Click" />
+                <asp:Button ID="categoryBtn" runat="server" Text="Category" OnClick="categoryBtn_Click" />
+                <asp:Button ID="itemsBtn" runat="server" Text="Items" OnClick="itemsBtn_Click" />
+            <asp:Button ID="customerBtn" runat="server" Text="Customer" OnClick="customerBtn_Click" />
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                
+            </asp:ContentPlaceHolder>
+            <br />
+            <br />
+            <asp:Label ID="Label1" runat="server" Text="Trillionaires Pvt. Ltd. 2021"></asp:Label>
+        </div>
+    </form>
+</body>
+</html>
+
